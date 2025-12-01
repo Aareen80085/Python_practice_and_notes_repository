@@ -1,5 +1,4 @@
-⸻
-📚 Python Practice Repository
+**📚 Python Practice Repository
 
 Welcome to my Python Practice Repository!
 This repo contains my class notes, HackerRank solutions, LeetCode problems, and mini-projects that I’ve worked on while learning and improving my Python skills.
