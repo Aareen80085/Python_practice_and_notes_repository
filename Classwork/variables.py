@@ -1,10 +1,10 @@
-# # x = 7
-# # y = x
-# # print( y + 1 , id(y + 1))
-# # print (x, id(x))
-# # print (y, id(y))
-# # fname = "John"
-# # print (fname[0])
+# x = 7
+# y = x
+# print( y + 1 , id(y + 1))
+# print (x, id(x))
+# print (y, id(y))
+# fname = "John"
+# print (fname[0])
 
 # username = "Aareen"
 # password = "mypassword123"
@@ -13,10 +13,10 @@
 # print("Enter your password:")
 # password = input().strip()
 
-# # if username == "Aareen" and password == "mypassword123":
-# #     print("you are authenticated")
-# # else:
-# #     print("Authentication failed")
+# if username == "Aareen" and password == "mypassword123":
+#     print("you are authenticated")
+# else:
+#     print("Authentication failed")
 
 # otp = "4567"
 # limit = 0
@@ -35,4 +35,3 @@
 
 age = 69
 print(type((str(age))))
-        
