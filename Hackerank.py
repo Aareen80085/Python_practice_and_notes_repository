@@ -1,4 +1,4 @@
- Question 1
+# Question 1
 my_string = "Hello, World!"
 print(my_string)
     
@@ -11,30 +11,30 @@ import sys
 
 
 if __name__ == '__main__':
-   n = int(input().strip())
-   
-   if (n%2 != 0):
-      print("Weird")
-   
-   elif (n%2 == 0) and n>=2 and n<=5:
-         print("Not Weird")
+    n = int(input().strip())
+
+    if (n%2 != 0):
+        print("Weird")
     
-   elif (n % 2 == 0) and n>=6 and n<=20:
-         print("Weird")
+    elif (n%2 == 0) and n>=2 and n<=5:
+        print("Not Weird")
     
-   elif (n%2 == 0) and n>20:
+    elif (n % 2 == 0) and n>=6 and n<=20:
+        print("Weird")
+    
+    elif (n%2 == 0) and n>20:
         print("Not Weird") 
 
-   else:
+    else:
         print("bye")
 # Question 3
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
 
-print(a+b)
-print(a-b)
-print(a*b)
+    print(a+b)
+    print(a-b)
+    print(a*b)
 
 #Question 4
 if __name__ == '__main__':
@@ -50,7 +50,7 @@ import math
 if __name__ == '__main__':
     n = int(input())
     for i in range(n):
-     print(round(math.pow(i, 2)))
+        print(round(math.pow(i, 2)))
 
 #Question 6
 
@@ -74,7 +74,7 @@ print(is_leap(year))
 if __name__ == '__main__':
     n = int(input())
     for i in range(1, n+1): 
-     print(i, end="")
+        print(i, end="")
 
 #Question 8
 
